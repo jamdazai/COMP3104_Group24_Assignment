@@ -6,3 +6,77 @@ Since then, our full-time student population has grown to around 30,000.
 People come to George Brown from across the Greater Toronto Area, the country and the world to develop the skills and gain the real-world experience needed to succeed in the workplace.
 
 Since 2004, George Brown has more than doubled in size, broadened our international partnerships and increased our commitment to strengthening the cultural, economic and social fabric of Toronto.
+
+
+--Second Commit for this file--
+LIST OF AVAILABLE COURSES IN GEORGE BROWN COLLEGE
+Arts and Design:
+-Apparel Construction
+-Cartooning and Illustration
+-Drawing, Painting, and Sculpture
+-Fashion Design
+-Graphic Design
+-Photography
+-Web Design and Development
+
+Business:
+-Business Management
+-Finance
+-Human Resources Management
+-Marketing and Public Relations
+-Project Management
+-Supply Chain and Retail
+
+Communication and Languages:
+-American Sign Language
+-Business Writing
+-Creative Writing
+-English Grammar and Punctuation
+-Journalism
+-Spanish
+
+Computers and Information Technology:
+-Cloud Computing
+-Computer Networking
+-Computer Programming
+-Cyber and Information Security
+-Data Science
+-Database Administration
+
+Construction and Trades:
+-Architectural Technology
+-Building Code
+-Carpentry and Home Renovation
+-Construction Management
+-HVAC and Refrigeration
+-Welding
+
+Health and Community:
+-Counselling and Coaching
+-Dental Health
+-Early Childhood Education (Part-time)
+-Nursing for RN Continuing Development
+-Pharmacy Support
+-Social Studies
+
+Hospitality and Culinary Arts:
+-Baking and Pastry Arts (Professional)
+-Culinary Arts (Professional)
+-Event Management
+-Hospitality Management
+-Tourism Management
+-Wine and Spirits
+
+Law and Emergency Management:
+-Counter terrorism and Intelligence
+-Emergency Management
+-Law Clerk
+-Paralegal
+-Security Enforcement
+
+Makeup and Esthetics:
+-Esthetician
+-Hairstylist
+-Makeup Artist
+-Salon Management
+-Spa Management

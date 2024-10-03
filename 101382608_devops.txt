@@ -1,0 +1,11 @@
+COMP 3104 - DevOps introduces students to the principles and practices of DevOps, a software development methodology that emphasizes collaboration, automation, and continuous integration/continuous deployment (CI/CD) to streamline the development and operations process. 
+This course provides hands-on experience with key DevOps tools and techniques to improve software quality and delivery speed. 
+Students will learn about version control systems, build automation, containerization, cloud services, and monitoring systems to ensure efficient and reliable software deployment.
+
+--Second Commit for this file--
+Common Tools that's being used in DevOps:
+-Git: Version control tool for managing source code.
+-Jenkins: CI/CD automation server for building, testing, and deploying.
+-Docker: Container platform for packaging applications and their dependencies.
+-Kubernetes: Tool for container orchestration, managing containerized applications.
+-Ansible: Configuration management and automation tool for provisioning infrastructure.

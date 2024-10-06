@@ -2,11 +2,10 @@
 
 ## Group Members
 - **David Lubwama** (101416908) - [GitHub](https://github.com/LubwamaDavid)
-- **Other Member 1** (Student ID) - [GitHub](GitHub Profile Link)
-- **Other Member 2** (Student ID) - [GitHub](GitHub Profile Link)
--**Other Member 2** (Student ID) - [GitHub](GitHub Profile Link)
--**Other Member 2** (Student ID) - [GitHub](GitHub Profile Link)
-
+- **Jam Furaque** 
+- **Kei Ishikawa** 
+- **Labis Kate** 
+- **Carl Trinidad** 
 
 ## Project Description
 This repository contains the group assignment for the COMP3104 DevOps course. The project demonstrates GitHub collaboration using branching strategies, continuous integration (CI) with GitHub Actions, and version control best practices.

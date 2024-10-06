@@ -1,0 +1,4 @@
+COMP 3104 DevOps is a course that teaches students about the principles and practices of DevOps, 
+including continuous integration (CI), continuous deployment (CD), 
+version control, and automation of development processes using tools like Git, 
+GitHub, and CI/CD pipelines.

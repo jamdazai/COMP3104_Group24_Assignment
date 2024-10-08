@@ -1,0 +1,26 @@
+COMP 3104 - DevOps Course Overview
+
+The COMP 3104 DevOps course provides students with a comprehensive understanding of the core principles, techniques, and tools necessary to become a proficient DevOps engineer. The course covers the complete software development lifecycle and emphasizes the integration of development and operations to increase productivity and collaboration.
+
+### Key Course Topics
+
+1. **Continuous Integration and Deployment (CI/CD)**:
+   Students learn how to implement CI/CD pipelines using tools such as Jenkins, GitHub Actions, and other industry-standard platforms. The course demonstrates how CI/CD enhances code quality and deployment efficiency.
+
+2. **Version Control Systems (VCS)**:
+   The course emphasizes the importance of using version control systems like Git to manage code changes, ensuring low-risk software releases and proper collaboration among team members.
+
+3. **Containerization**:
+   Application containerization is another key focus, using tools such as Docker and Kubernetes to simplify deployment and scaling in cloud environments.
+
+4. **Software Architecture**:
+   Students explore architectural decisions, specifically in the context of monolithic vs. microservice architectures, and understand the implications of these choices for scaling and maintainability.
+
+5. **Infrastructure as Code (IaC)**:
+   The use of cloud infrastructure platforms, such as AWS and Azure, is integrated into the course to highlight the benefits of Infrastructure as Code and cloud automation.
+
+### Hands-on Learning
+
+The course includes practical lab exercises where students implement DevOps practices and tools, ensuring they are industry-ready by the end of the course. Topics such as automated testing, monitoring, and deployment automation are all explored in-depth.
+
+

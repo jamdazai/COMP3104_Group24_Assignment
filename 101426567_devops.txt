@@ -1,4 +1,5 @@
-COMP 3104 - DevOps Course Overview
+###COMP 3104 - DevOps Course Overview -
+
 
 The COMP 3104 DevOps course provides students with a comprehensive understanding of the core principles, techniques, and tools necessary to become a proficient DevOps engineer. The course covers the complete software development lifecycle and emphasizes the integration of development and operations to increase productivity and collaboration.
 

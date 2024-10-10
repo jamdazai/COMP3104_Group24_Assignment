@@ -1,11 +1,24 @@
-A DevOps course introduces the integration 
-of development and operations practices to enhance collaboration, automation 
-and efficiency in the software development lifecycle.
-It covers key concepts such as Continuous Integration/Continuous Delivery (CI/CD), 
-Infrastructure as Code (IaC), containerization (e.g., Docker, Kubernetes), 
-and cloud platforms (e.g., AWS, Azure). The course aims to teach tools 
-and methodologies that streamline development, deployment and monitoring processes
-promoting faster releases and higher quality software.
+COMP 3104: DevOps Course Overview
+
+The DevOps course introduces the integration of development and operations practices to improve collaboration, automation and efficiency across the software development lifecycle. 
+The goal of DevOps is to break down silos between teams, enabling continuous delivery of high quality software.
+
+Key concepts covered in the course include:
+
+1- Continuous Integration/Continuous Delivery (CI/CD): Automating the process of integrating code changes, testing and deploying software to ensure faster and more reliable releases.
+
+2- Infrastructure as Code (IaC): Managing and provisioning computing infrastructure through machine readable configuration files rather than manual processes, making environments consistent and scalable.
+
+3- Containerization: Using tools like Docker and Kubernetes to create lightweight portable containers that can run applications across various environments without compatibility issues.
+
+4- Cloud Platforms: Leveraging cloud services such as AWS and Azure to host, scale and monitor applications ensuring they perform efficiently in production environments.
+
+The course focuses on teaching students the tools and methodologies that streamline the development, deployment and monitoring of applications. By implementing practices such as automated testing, continuous deployment
+
+and infrastructure management, students learn how to promote faster software releases with higher reliability.
+
+Additionally, the course emphasizes the importance of monitoring and feedback loops to identify issues early, make continuous improvements and ensure the system's overall stability and performance.
+
 
 
 

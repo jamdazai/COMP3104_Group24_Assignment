@@ -1,0 +1,3 @@
+**COMP3104: DevOps Course Overview**
+
+COMP3104 introduces students to DevOps principles and practices, emphasizing the integration of development and operations to enhance collaboration and efficiency in the software development lifecycle. Key topics include CI/CD, Infrastructure as Code, containerization with Docker and Kubernetes, and cloud platforms like AWS and Azure, with a focus on practical applications through case studies, hands-on projects, and collaborative activities that simulate real-world environments. By the end of the course, students will understand how to leverage DevOps practices to deliver high-quality software efficiently.

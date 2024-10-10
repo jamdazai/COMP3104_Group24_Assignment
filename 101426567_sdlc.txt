@@ -1,4 +1,4 @@
-###The Importance of Learning DevOps in the Software Development Cycle
+###The Importance of Learning DevOps in the Software Development Cycle ###
 
 ### Streamlining Development and Operations
 

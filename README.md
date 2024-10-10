@@ -4,7 +4,7 @@ This repository is for our Group Assignment 1 in DevOps class.
 - **Leader:** James Furaque (101382608) - [GitHub](https://github.com/jamdazai)
 - **Member 2:** David Lubwama(101416908) - [GitHub](https://github.com/LubwamaDavid)
 - **Member 3:** Kei Isikawa(101426567) - [GitHub](https://github.com/kkkkei28)
-- **Member 4:** 
+- **Member 4:**  
 - **Member 5:** 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.

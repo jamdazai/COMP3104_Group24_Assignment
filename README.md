@@ -2,7 +2,7 @@
 This repository is for our Group Assignment 1 in DevOps class.
 ## Group Members
 - **Leader:** James Furaque (101382608) - [GitHub](https://github.com/jamdazai)
-- **Member 2:** David Lubwama(101416908) - [GitHub](https://github.comLubwamaDavid)
+- **Member 2:** David Lubwama(101416908) - [GitHub](https://github.com/LubwamaDavid)
 - **Member 3:** 
 - **Member 4:** 
 - **Member 5:** 

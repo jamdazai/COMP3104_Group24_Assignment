@@ -19,7 +19,7 @@ and infrastructure management, students learn how to promote faster software rel
 
 Additionally, the course emphasizes the importance of monitoring and feedback loops to identify issues early, make continuous improvements and ensure the system's overall stability and performance.
 
-
+Students will also explore real-world case studies and hands-on projects to apply DevOps principles, enabling them to develop practical skills that are highly sought after in the tech industry.
 
 
 

@@ -1,2 +1,31 @@
-In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a workplace environment to increase productivity. Analyze and evaluate various 
+-Comp3104 DevOps Overview-
+
+In this course we learn the procedures, protocols and best practices that a DevOps engineer brings to a workplace environment to increase productivity. Analyze and evaluate various 
 developer operation implementations available and implement hands-on work using industry standard toolkit. Create solutions to complex business problems by adhering to the core responsibilities of DevOps.
+
+What we covered in the course:
+*Continuous Integration and Deployment(CI/CD)*
+-A CI/CD pipeline automates the continuous delivery of applications through a cycle of building, testing, and deploying, enhancing efficiency in modern DevOps environments.
+
+*Version Control System*
+-A version control system (VCS) tracks code modifications and serves as a repository for project snapshots, enabling safe workflows, experimentation, and easy rollback. 
+-A centralized version control system (CVCS) features a single repository accessible by developers, promoting collaboration and oversight but poses risks as a single point of failure.
+
+*Containerization*
+-Containerization is a technology that packages applications and their dependencies into isolated units, called containers, allowing them to run consistently across different computing environments. 
+-We used Docker and Kubernetes for containers
+
+*Infrastructure as Code*
+-IaC manages computing infrastructure through machine-readable configuration files, ensuring consistency and scalability while reducing human error.
+
+*Cloud Platforms*
+-Cloud platforms like AWS, Azure, and Google Cloud provide hosting, scaling, and monitoring services, ensuring efficient application performance and flexible resource management.
+
+*Collaboration Tools*
+-Security measures in the DevOps pipeline ensure applications are protected from vulnerabilities through automated testing, continuous monitoring, and integrated security (DevSecOps).
+
+*Security Practices*
+-Security measures in the DevOps pipeline ensure applications are protected from vulnerabilities through automated testing, continuous monitoring, and integrated security (DevSecOps).
+
+*Monitoring and Logging*
+-Monitoring tools track system performance and capture logs, enabling quick identification and resolution of issues while providing real-time insights into system health.

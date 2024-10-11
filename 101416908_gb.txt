@@ -1,23 +1,23 @@
                        George Brown College is a public institution located in Toronto, Canada, 
                        offering a wide range of programs across various fields including business,
                        technology, health sciences, hospitality and arts and design. The college 
-                       is known for its focus on hands-on practical education and its strong 
-                       industry partnerships, providing students with invaluable real-world experience
+                       is known for its focus on hands on practical education and its strong 
+                       industry partnerships providing students with invaluable real world experience
                        and opportunities to develop professional skills.
 
                        With multiple campuses located in the heart of downtown Toronto, George Brown 
                        College offers students unparalleled access to Canada’s largest city. This 
                        location enables students to engage directly with leading employers, 
-                       participate in internships and co-op programs, and collaborate on applied 
+                       participate in internships and co-op programs and collaborate on applied 
                        research projects. The college’s proximity to major industries enhances learning 
-                       and networking opportunities, allowing students to gain insights and experiences 
+                       and networking opportunities allowing students to gain insights and experiences 
                        that are highly valued in today’s job market.
 
                        George Brown College also places a strong emphasis on innovation and technology. 
-                       Through partnerships with industry leaders and state-of-the-art facilities, 
+                       Through partnerships with industry leaders and state of the art facilities, 
                        students are equipped with the tools and knowledge needed to excel in an 
-                       ever-evolving workplace. This connection to industry helps bridge the gap between 
-                       academic learning and professional success, ensuring that graduates are well 
+                       ever evolving workplace. This connection to industry helps bridge the gap between 
+                       academic learning and professional success ensuring that graduates are well 
                        prepared for their careers and can contribute meaningfully to their chosen fields.
 
-
+ 

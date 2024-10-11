@@ -2,7 +2,7 @@
 
               The DevOps course introduces the integration of development and operations practices 
               to improve collaboration, automation and efficiency across the software development lifecycle. 
-              The goal of DevOps is to break down silos between teams, enabling continuous delivery 
+              The goal of DevOps is to break down silos between teams enabling continuous delivery 
               of high-quality software.
 
               Key concepts covered in the course include:

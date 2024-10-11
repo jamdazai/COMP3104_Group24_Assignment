@@ -1,4 +1,4 @@
-                                      COMP 3104: DevOps Course Overview
+                                                   COMP 3104: DevOps Course Overview
 
               The DevOps course introduces the integration of development and operations practices 
               to improve collaboration, automation and efficiency across the software development lifecycle. 
@@ -11,9 +11,8 @@
                  code changes, testing and deploying software to ensure faster and more reliable releases.
 
               2. Infrastructure as Code (IaC): Managing and provisioning computing infrastructure through 
-                 machine-readable configuration files instead of manual processes, making environments consistent 
+                 machine-readable configuration files instead of manual processes making environments consistent 
                  and scalable.
-
 
               3. Containerization: Using tools like Docker and Kubernetes to create lightweight portable containers 
                  that can run applications across various environments without compatibility issues.
@@ -21,12 +20,18 @@
               4. Cloud Platforms: Leveraging cloud services such as AWS and Azure to host, scale and monitor applications, 
                  ensuring they perform efficiently in production environments.
 
-
               5. Version Control Systems: Understanding how to use version control tools like Git to track code changes, 
                  collaborate with team members and manage software releases effectively.
 
-              6. Monitoring and Logging: Implementing tools that track system performance and capture logs, enabling quick 
+              6. Monitoring and Logging: Implementing tools that track system performance and capture logs enabling quick 
                  identification and resolution of issues in production environments.
+
+              7. Security Practices: Incorporating security measures into the DevOps pipeline to ensure that applications 
+                 are secure from vulnerabilities throughout their lifecycle. This includes practices such as automated 
+                 security testing and continuous monitoring for potential threats.
+
+              8. Collaboration Tools: Utilizing tools that enhance communication and collaboration among team members, 
+                 such as Slack, Jira and Confluence, to facilitate better project management and team dynamics.
 
               The course focuses on teaching students the tools and methodologies that streamline the development, 
               deployment and monitoring of applications. By implementing practices such as automated testing, 
@@ -37,4 +42,6 @@
               make continuous improvements and ensure the system's overall stability and performance.
 
               The course also encourages a culture of collaboration where development, operations and security teams 
-              work together throughout the software lifecycle to build, test and release software more efficiently.
+              work together throughout the software lifecycle to build, test and release software more efficiently. 
+              This integrated approach fosters innovation and enables teams to respond quickly to changing requirements 
+              and market demands.

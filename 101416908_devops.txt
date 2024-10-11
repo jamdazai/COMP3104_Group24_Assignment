@@ -1,47 +1,62 @@
-                                                   COMP 3104: DevOps Course Overview
+                                  COMP 3104: DevOps Course Overview:
 
               The DevOps course introduces the integration of development and operations practices 
               to improve collaboration, automation and efficiency across the software development lifecycle. 
               The goal of DevOps is to break down silos between teams enabling continuous delivery 
-              of high quality software.
+              of high quality software that is both reliable and scalable.
 
               Key concepts covered in the course include:
 
-              1. Continuous Integration/Continuous Delivery (CI/CD): Automating the process of integrating 
-                 code changes, testing and deploying software to ensure faster and more reliable releases.
+              1. **Continuous Integration/Continuous Delivery (CI/CD)**: Automating the process of integrating 
+                 code changes, testing and deploying software to ensure faster and more reliable releases. 
+                 CI/CD minimizes errors by automating repetitive tasks and helps teams quickly identify 
+                 and address any issues that arise during the development process.
 
-              2. Infrastructure as Code (IaC): Managing and provisioning computing infrastructure through 
+              2. **Infrastructure as Code (IaC)**: Managing and provisioning computing infrastructure through 
                  machine-readable configuration files instead of manual processes making environments consistent 
-                 and scalable.
+                 and scalable. IaC allows teams to create and manage infrastructure in a repeatable and predictable 
+                 way reducing the risk of human error.
 
-              3. Containerization: Using tools like Docker and Kubernetes to create lightweight portable containers 
-                 that can run applications across various environments without compatibility issues.
+              3. **Containerization**: Using tools like Docker and Kubernetes to create lightweight portable containers 
+                 that can run applications across various environments without compatibility issues. Containerization 
+                 allows developers to package applications and dependencies together ensuring consistency across 
+                 development, testing and production environments.
 
-              4. Cloud Platforms: Leveraging cloud services such as AWS and Azure to host, scale and monitor applications, 
-                 ensuring they perform efficiently in production environments.
+              4. **Cloud Platforms**: Leveraging cloud services such as AWS, Azure and Google Cloud to host, scale and 
+                 monitor applications ensuring they perform efficiently in production environments. Cloud platforms 
+                 provide the flexibility to scale resources on demand and optimize costs based on usage.
 
-              5. Version Control Systems: Understanding how to use version control tools like Git to track code changes, 
-                 collaborate with team members and manage software releases effectively.
+              5. **Version Control Systems**: Understanding how to use version control tools like Git to track code changes, 
+                 collaborate with team members and manage software releases effectively. Version control systems allow 
+                 teams to work simultaneously on different features while keeping a clear record of changes.
 
-              6. Monitoring and Logging: Implementing tools that track system performance and capture logs enabling quick 
-                 identification and resolution of issues in production environments.
+              6. **Monitoring and Logging**: Implementing tools that track system performance and capture logs enabling quick 
+                 identification and resolution of issues in production environments. Monitoring provides real-time insight 
+                 into system health while logging helps diagnose and troubleshoot problems.
 
-              7. Security Practices: Incorporating security measures into the DevOps pipeline to ensure that applications 
+              7. **Security Practices**: Incorporating security measures into the DevOps pipeline to ensure that applications 
                  are secure from vulnerabilities throughout their lifecycle. This includes practices such as automated 
-                 security testing and continuous monitoring for potential threats.
+                 security testing, continuous monitoring for potential threats and integrating security directly into 
+                 the development process (DevSecOps).
 
-              8. Collaboration Tools: Utilizing tools that enhance communication and collaboration among team members, 
-                 such as Slack, Jira and Confluence, to facilitate better project management and team dynamics.
+              8. **Collaboration Tools**: Utilizing tools that enhance communication and collaboration among team members 
+                 such as Slack, Jira and Confluence to facilitate better project management, tracking and teamwork. These 
+                 tools help teams stay organized and improve transparency by allowing everyone to track progress in real time.
+
+              9. **Automation and Orchestration**: Implementing automation tools like Ansible, Chef and Puppet to manage 
+                 complex configurations and ensure consistency across multiple environments. Orchestration tools enable 
+                 teams to coordinate tasks and workflows across various services improving efficiency and reducing manual effort.
 
               The course focuses on teaching students the tools and methodologies that streamline the development, 
               deployment and monitoring of applications. By implementing practices such as automated testing, 
               continuous deployment and infrastructure management, students learn how to promote faster software releases 
-              with higher reliability.
+              with higher reliability and reduced risk of failures.
 
               Additionally, the course emphasizes the importance of monitoring and feedback loops to identify issues early, 
-              make continuous improvements and ensure the system's overall stability and performance.
+              make continuous improvements and ensure the system's overall stability and performance. Students will also 
+              learn how to handle rollback mechanisms in case of deployment issues ensuring minimal downtime for users.
 
-              The course also encourages a culture of collaboration where development, operations and security teams 
+              The course encourages a culture of collaboration where development, operations and security teams 
               work together throughout the software lifecycle to build, test and release software more efficiently. 
-              This integrated approach fosters innovation and enables teams to respond quickly to changing requirements 
-              and market demands.
+              This integrated approach fosters innovation, improves response times to changing requirements and enables 
+              teams to adapt quickly to evolving market demands and customer feedback.

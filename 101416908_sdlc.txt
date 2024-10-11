@@ -1,12 +1,26 @@
-The Software Development Life Cycle (SDLC) is a structured process used to develop software systematically and efficiently. It ensures that the software meets user requirements, maintains high quality and is delivered within the agreed timeline.
+                                  The Software Development Life Cycle (SDLC) is a structured process
+                                  used to develop software systematically and efficiently. It ensures 
+                                  that the software meets user requirements, maintains high quality 
+                                  and is delivered within the agreed timeline.
 
-The SDLC consists of the following key stages:
+                                  The SDLC consists of the following key stages:
 
-Planning: Defining the project scope and determining the necessary resources and timeline.
-Requirements Gathering: Identifying and documenting both functional and non-functional requirements.
-Design: Creating system architecture, user interface and database designs.
-Development: Writing the code based on the design specifications.
-Testing: Verifying that the software functions as expected and fixing any defects.
-Deployment: Releasing the software for use in a live environment.
-Maintenance: Providing ongoing support, bug fixes and updates to ensure the software remains functional.
-The SDLC provides a roadmap for developing software that meets user's needs while adhering to quality standards and deadlines.
+                                  Planning: Defining the project scope and determining the necessary 
+                                  resources and timeline.
+
+                                  Requirements Gathering: Identifying and documenting both functional 
+                                  and non-functional requirements.
+
+                                  Design: Creating system architecture, user interface and database designs.
+
+                                  Development: Writing the code based on the design specifications.
+
+                                  Testing: Verifying that the software functions as expected and fixing any defects.
+
+                                  Deployment: Releasing the software for use in a live environment.
+
+                                  Maintenance: Providing ongoing support, bug fixes and updates to ensure the 
+                                  software remains functional.
+
+                                  The SDLC provides a roadmap for developing software that meets user's needs 
+                                  while adhering to quality standards and deadlines..

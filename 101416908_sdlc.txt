@@ -10,7 +10,7 @@
                                   and setting the project objectives to guide the development process.
 
                                   Requirements Gathering: Identifying and documenting both functional 
-                                  and non-functional requirements. Clear and precise requirements ensure 
+                                  and non functional requirements. Clear and precise requirements ensure 
                                   the project team understands exactly what the software should achieve 
                                   and how it should behave.
 

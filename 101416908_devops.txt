@@ -14,11 +14,13 @@
                  machine-readable configuration files instead of manual processes, making environments consistent 
                  and scalable.
 
+
               3. Containerization: Using tools like Docker and Kubernetes to create lightweight portable containers 
                  that can run applications across various environments without compatibility issues.
 
               4. Cloud Platforms: Leveraging cloud services such as AWS and Azure to host, scale and monitor applications, 
                  ensuring they perform efficiently in production environments.
+
 
               5. Version Control Systems: Understanding how to use version control tools like Git to track code changes, 
                  collaborate with team members and manage software releases effectively.

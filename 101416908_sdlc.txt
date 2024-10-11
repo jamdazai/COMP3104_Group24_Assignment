@@ -23,4 +23,4 @@
                                   software remains functional.
 
                                   The SDLC provides a roadmap for developing software that meets user's needs 
-                                  while adhering to quality standards and deadlines.
+                                  while adhering to quality standards and deadlines..

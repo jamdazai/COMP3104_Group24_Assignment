@@ -4,7 +4,6 @@ As of right now, they have Casa Loma, St. James, and Waterfront Campus in downto
 George Brown College now enrolls nearly 30,000 full-time students in a range of departments, including early childhood, health sciences,
 computers and information technology, business, design, arts, and hospitality and culinary arts.
 
-T177 Computer Programming and Analysis;
-
-
-
+The T177 Computer Programming and Analysis course, which provides students with a thorough education in software development, coding, and systems analysis, stands out among its various programs.
+Students who complete this program will have the technical know-how and real-world experience necessary to succeed in the quickly changing tech sector. 
+Through a blend of classroom instruction and practical projects, students acquire a strong foundation in software design principles, problem-solving techniques, and programming languages. 

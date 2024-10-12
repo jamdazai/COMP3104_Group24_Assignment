@@ -1,3 +1,4 @@
+-The Software Development Cycle-
 DevOps is essential in modern software development, bridging development and operations teams to foster collaboration and continuous improvement. By leveraging automation, continuous integration,
 and continuous delivery (CI/CD), DevOps streamlines the software development life cycle (SDLC). This results in faster delivery of high-quality software while minimizing risks and costs.
 
@@ -15,3 +16,18 @@ Importance of DevOps
 -Continuous Improvement: Supports rapid feedback and enhancements.
 -Scalability: Facilitates efficient scaling of applications.
 -Enhanced Security: Integrates security practices throughout development.
+
+-Key stages of SDLC-
+-Planning: Define project goals, requirements, and scope, involving all stakeholders to ensure alignment.
+
+-Development: Write and build the code, often using agile methodologies to enable iterative progress.
+
+-Testing: Conduct automated and manual testing to identify bugs and ensure the software meets quality standards.
+
+-Deployment: Release the application to production environments using CI/CD pipelines for efficient and reliable deployment.
+
+-Monitoring: Continuously monitor the application’s performance and user experience to identify issues in real-time.
+
+-Feedback: Gather user feedback and performance data to inform future improvements and iterations.
+
+-Maintenance: Regularly update and maintain the application, addressing any bugs or performance issues and implementing new features as needed.

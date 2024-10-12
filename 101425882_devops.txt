@@ -29,3 +29,9 @@ What we covered in the course:
 
 *Monitoring and Logging*
 -Monitoring tools track system performance and capture logs, enabling quick identification and resolution of issues while providing real-time insights into system health.
+
+The course highlights the importance of understanding the SDLC within the DevOps framework to improve efficiency and quality in software development. Students learn to implement practices like automated testing 
+and continuous delivery, promoting faster releases with greater reliability and reduced risk of failures.
+
+It also emphasizes monitoring and feedback loops for early issue identification and continuous improvement, ensuring system stability. By fostering collaboration among development, operations, and security teams,
+the course enables a responsive approach to changing requirements, helping teams quickly adapt to evolving market demands and customer feedback.
